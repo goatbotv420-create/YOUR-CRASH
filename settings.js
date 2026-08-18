@@ -36,13 +36,13 @@
 // */
 require('dotenv').config();
 const settings = {
-  packname: 'GAAJU-XMD',
+  packname: 'Your Crash',
   author: '‎Gaaju Tech',
-  botName: "GAAJU-XMD",
-  botOwner: 'Chris Gaaju', 
+  botName: "🆈︎🅾︎🆄︎🆁︎|🅲︎🆁︎🅰︎🆂︎🅷︎",
+  botOwner: '🆃︎🅰︎🅼︎🅸︎🅼︎|🅱︎🅱︎🆉︎', 
   timezone: 'Africa/Lagos',
-  prefix: '.',
-  ownerNumber: '2348069675806',
+  prefix: '.','/',
+  ownerNumber: '8801322962662',
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
   maxStoreMessages: 20, 
